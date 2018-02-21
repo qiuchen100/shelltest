@@ -1,0 +1,4 @@
+hello chinahadoop
+hello hadoop
+hello hadoop
+hi hive, hi hive
